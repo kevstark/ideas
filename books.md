@@ -1,5 +1,44 @@
 # Reading List
 
-- [ ] [The map that changed the world](https://www.bookdepository.com/Map-That-Changed-World-Author-Historian-Simon-Winchester/9780061767906)
-- [ ] [Minuteman Missile Booklet](https://muckrock.s3.amazonaws.com/foia_files/2015/11/17/Minuteman_Missile_Booklet_Eastern_National.pdf)
-- [ ] [Paul Carter - Smoking Monkeys, Drilling Rigs, Bio Diesel Bikes](https://booko.com.au/9781742379074/Smoking-Monkeys-Drilling-Rigs-Bio-diesel-Bikes-and-Other-Stories-The-complete-Paul-Carter)
+- [The map that changed the world](https://www.bookdepository.com/Map-That-Changed-World-Author-Historian-Simon-Winchester/9780061767906)
+- [Minuteman Missile Booklet](https://muckrock.s3.amazonaws.com/foia_files/2015/11/17/Minuteman_Missile_Booklet_Eastern_National.pdf)
+- [Paul Carter - Smoking Monkeys, Drilling Rigs, Bio Diesel Bikes](https://booko.com.au/9781742379074/Smoking-Monkeys-Drilling-Rigs-Bio-diesel-Bikes-and-Other-Stories-The-complete-Paul-Carter)
+
+- [Ashlee Vance - Elon Musk: Inventing the Future](https://booko.com.au/9780062301239/Elon-Musk-Inventing-the-Future)
+- [Randal Munroe - Thing Explainer](https://www.amazon.co.uk/Thing-Explainer-Randall-Munroe/dp/1473620910)
+- [Ryan McIntire - Elon Musk: Renaissance Man](https://booko.com.au/9781508996477/Elon-Musk-Renaissance-Man)
+
+- [Richard Rhodes - Dark Sun](https://booko.com.au/9780684824147/Dark-Sun)
+> Here, for the first time, in a brilliant, panoramic portrait by the Pulitzer Prize-winning author of The Making of the Atomic Bomb, is the definitive, often shocking story of the politics and the science behind the development of the hydrogen bomb and the birth of the Cold War. Based on secret files in the United States and the former Soviet Union, this monumental work of history discloses how and why the United States decided to create the bomb that would dominate world politics for more than forty years.
+
+- [Richard Rhodes - Arsenals of Folly](https://booko.com.au/9780375713941/Arsenals-of-Folly)
+> Pulitzer Prize-winning author Richard Rhodes delivers a riveting account of the nuclear arms race and the Cold War. In the Reagan-Gorbachev era, the United States and the Soviet Union came within minutes of nuclear war, until Gorbachev boldly launched a campaign to eliminate nuclear weapons, setting the stage for the 1986 Reykjavik summit and the incredible events that followed. In this thrilling, authoritative narrative, Richard Rhodes draws on personal interviews with both Soviet and U.S. participants and a wealth of new documentation to unravel the compelling, shocking story behind this monumental time in human history its beginnings, its nearly chilling consequences, and its effects on global politics today.
+
+- [Richard Rhodes - Twilight Of The Bombs](https://booko.com.au/9780307387417/Twilight-Of-The-Bombs)
+> The final volume in Richard Rhodes's prizewinning history of nuclear weapons offers the first comprehensive narrative of the challenges faced in the post-Cold War age. The past twenty years have transformed our relationship with nuclear weapons drastically. With extraordinary depth of knowledge and understanding, Richard Rhodes makes clear how the five original nuclear powers--Russia, Great Britain, France, China, and especially the United States--have struggled with new realities. He reveals the real reasons George W. Bush chose to fight a second war in Iraq, assesses the emerging threat of nuclear terrorism, and offers advice on how our complicated relationships with North Korea and South Asia should evolve. Finally, he imagines what a post-nuclear world might look like, as only he can.
+
+- [Benjamin Grant - Overview: A New Perspective of Earth](https://www.amazon.com/Overview-Perspective-Earth-Benjamin-Grant/dp/039957865X)
+> A stunning and unique collection of satellite images of Earth that offer an unexpected look at humanity, derived from the wildly popular Daily Overview Instagram account.
+
+- [Cathy O'Neil - Wepons of Math Destruction](https://weaponsofmathdestructionbook.com/)
+> A former Wall Street quant sounds an alarm on the mathematical models that pervade modern life and threaten to rip apart our social fabric. 
+> We live in the age of the algorithm. Increasingly, the decisions that affect our lives—where we go to school, whether we get a car loan, how much we pay for health insurance—are being made not by humans, but by mathematical models. In theory, this should lead to greater fairness: Everyone is judged according to the same rules, and bias is eliminated.
+> But as Cathy O’Neil reveals in this urgent and necessary book, the opposite is true. The models being used today are opaque, unregulated, and uncontestable, even when they’re wrong. Most troubling, they reinforce discrimination: If a poor student can’t get a loan because a lending model deems him too risky (by virtue of his zip code), he’s then cut off from the kind of education that could pull him out of poverty, and a vicious spiral ensues. Models are propping up the lucky and punishing the downtrodden, creating a “toxic cocktail for democracy.” Welcome to the dark side of Big Data.
+
+- [Hugh Blair-Smith - Left Brains for the Right Stuff](https://booko.com.au/9780996434539/Left-Brains-for-the-Right-StuffComputers-Space-and-History)
+> What made the Space Race possible? What made it necessary? How close a race was it? And what did it achieve? The answers are connected in surprising ways. Left Brains for the Right Stuff briefly summarizes the history of three technologies-rockets, navigation, and computers-and recounts how they were woven into the rise and rivalry of superpowers in the twentieth century. President John F. Kennedy inherited a small Space Race and transformed it into a Moon Race by creating the Apollo program (..". achieving the goal, before this decade is out, of landing a man on the moon ..."). To make it an "offer" the Soviet Union couldn't refuse, he added, "We choose to go to the moon ... not because it is] easy, but because it is] hard." Apollo won the Moon Race and, combined with the Space Shuttle, won the Space Race, which did much to win the Cold War and preserve the momentum of American leadership that had been created in World War II. Many big companies worked on those programs, and so did a small academic research laboratory. At Massachusetts Institute of Technology (MIT), the Instrumentation Laboratory ("the Lab") was the creation of one man, Charles Stark "Doc" Draper, who invented inertial navigation. Author Hugh Blair-Smith was a staff engineer at the Lab from 1959 through 1981. Trained as an electronic engineer and computer scientist, his two-pronged expertise contributed to both the hardware of spacecraft computers and the programming that had to make the most of their limite
+
+- [Neal Stephenson - Reamde]()
+> An epic thriller from the unique imagination of one of today's most inventive writers: a wealthy tech entrepreneur is caught in the crossfire of his own online fantasy war game, as Chinese hackers unleash a contagious virus - Reamde...
+
+- [Kate Thompson - Zero Bugs and Program Faster](https://www.amazon.com/dp/0996193308)
+> The world's top developers are making over $500,000 a year while the average is around $100,000 a year. Why? Because the top developers can develop 10x faster and cleaner than 99% of the others out there. Kate Thompson can teach you how to write code faster and get cleaner. The author spent two years researching every bug avoidance technique she could find.This book teaches the principles of how to avoid bugs.
+
+- [Jacquie McNish - Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of Blackberry](https://booko.com.au/9781250060174/Losing-the-Signal-The-Untold-Story-Behind-the-Extraordinary-Rise-and-Spectacular-Fall-of-Blackberry)
+> Short-listed for the 2015 Financial Times and McKinsey Business Book of the Year A Wall Street Journal Best Business Book of 2015 A Best Business Book of the Year, Forbes Magazine A Times of London Book of the Week Best Narrative Business Book of 2015 by Strategy+Business In 2009, BlackBerry controlled half of the smartphone market. Today that number is less than one percent. What went so wrong? Losing the Signal is a riveting story of a company that toppled global giants before succumbing to the ruthlessly competitive forces of Silicon Valley. This is not a conventional tale of modern business failure by fraud and greed. The rise and fall of BlackBerry reveals the dangerous speed at which innovators race along the information superhighway. With unprecedented access to key players, senior executives, directors and competitors, Losing the Signal unveils the remarkable rise of a company that started above a bagel store in Ontario. At the heart of the story is an unlikely partnership between a visionary engineer, Mike Lazaridis, and an abrasive Harvard Business school grad, Jim Balsillie. Together, they engineered a pioneering pocket email device that became the tool of choice for presidents and CEOs. The partnership enjoyed only a brief moment on top of the world, however. At the very moment BlackBerry was ranked the world's fastest growing company internal feuds and chaotic growth crippled the company as it faced its gravest test: Apple and Google's entry in to mobile phones.
+
+
+
+
+
+
